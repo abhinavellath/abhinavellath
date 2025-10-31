@@ -58,7 +58,6 @@ My current focus is on:
 
 - 🔹 [DevOps for Real-Time Chat Application (Chatty)](https://github.com/kiranrajeev1/DevSecOps-chat-app.git)  
 - 🔹 [DevOps for MERN Movie Recommendation App](https://github.com/kiranrajeev1/DevSecOps-MERN-MovieApp.git)  
-- 🔹 [Flashcard Quest – MERN Learning App](https://github.com/kiranrajeev1/Flashcard-Quest-MERN-App.git)  
 
 ---
 
